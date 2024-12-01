@@ -29,4 +29,6 @@ Una tienda minorista requiere un sistema para gestionar sus procesos de ventas, 
 - Los métodos de pago pueden incluir efectivo, tarjeta de crédito, transferencia bancaria, entre otros. Cada método de pago debe estar previamente definido en el sistema.
 
 ## Modelo Entidad Relación
+![Texto alternativo](./images/imagen.jpg)
+
 
