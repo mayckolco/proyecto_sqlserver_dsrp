@@ -32,4 +32,5 @@ Una tienda minorista requiere un sistema para gestionar sus procesos de ventas, 
 ![tarea1_mco](https://github.com/user-attachments/assets/31cf4203-7dda-4bbe-a5c0-a0d8290d8501)
 
 ## Modelo Lógico
-![tarea2_mco](https://github.com/user-attachments/assets/10beccdb-ec38-4f8a-abef-bfa25d13f46b)
+![tarea2_mco](https://github.com/user-attachments/assets/6e33d897-19a9-4154-ba17-700bf50edc7d)
+
